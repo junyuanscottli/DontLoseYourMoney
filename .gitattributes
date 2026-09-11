@@ -1,0 +1,3 @@
+# 统一行尾：仓库内一律存 LF，各自 checkout 时按本机习惯转换。
+# 两人 core.autocrlf 设置不同也不会让 markdown 整文件变成 diff。
+* text=auto
