@@ -11,3 +11,4 @@
 | 路线 | 说明 | 状态 | 开启 |
 |---|---|---|---|
 | [training](research/training/) | 自我培训对齐：三大表与美股基础、价投真经、以往案例复盘 | active | 2026-09-11 |
+| [paid-user-research](research/paid-user-research/) | 美国付费用户调研：找到如实具备的稀缺画像，以高于机会成本的价格出售时间 | active | 2026-09-16 |
