@@ -15,3 +15,4 @@
 | [value-investing-philosophy](research/value-investing-philosophy/) | 价值投资哲学研究：财富、内在价值、护城河的方法论 | active | 2026-09-28 |
 | [tax-advantaged-accounts](research/tax-advantaged-accounts/) | 免税/税收优惠投资账户：Roth IRA 等的规则与福利 | active | 2026-09-28 |
 | [index-vs-concentrated-investing](research/index-vs-concentrated-investing/) | 指数投资 vs 集中投资收益对比：QQQ、TQQQ、标普 500 等 | active | 2026-09-28 |
+| [single-stock-research](research/single-stock-research/) | 个股研究：商业模式、护城河、财务与估值，首个对象 AOS | active | 2026-09-28 |
