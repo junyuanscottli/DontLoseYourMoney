@@ -8,7 +8,7 @@ tags: []
 
 # 个股研究
 
-对具体上市公司做深度个股研究：商业模式、护城河、财务质量、估值，判断是否值得买入/持有。每个研究对象在本路线下沉淀独立笔记，公司之间的横向比较用 `tags` 串联。
+对具体上市公司做深度个股研究：商业模式、护城河、财务质量、估值，判断是否值得买入/持有。每个研究对象在本路线下单独开一个以股票代码命名的子文件夹（如 `AOS/`）沉淀笔记，公司之间的横向比较用 `tags` 串联。
 
 ## 现状
 
@@ -19,7 +19,7 @@ tags: []
 - 2026 年 1 月以全举债方式（三年期 $470M 定期贷款）收购 Leonard Valve，杠杆率从 7.7% 跳升至 25.7%，是公司近五年最大的资本结构变化
 - 估值判断（数据基准约 2026-08-19，股价 $62.17）：现价隐含约 4.8%/年增长，而实际交付约 0.3%，安全边际不足，测算买入区间 $33–38，结论为「不买，护城河真实但价格不合适」——**该判断早于 Leonard Valve 杠杆变化，且股价可能已变动，需要复查后再采信**
 
-详见 `aos-business-overview.md`、`aos-moat-and-competition.md`、`aos-financials.md`、`aos-valuation.md`。
+详见 `AOS/aos-business-overview.md`、`AOS/aos-moat-and-competition.md`、`AOS/aos-financials.md`、`AOS/aos-valuation.md`。
 
 ## 开放问题
 
@@ -30,7 +30,7 @@ tags: []
 
 ## 任务
 
-- [x] `T-001` AOS 商业模式与业务构成梳理（收入拆分、地域、产品线） — 完成: 2026-09-28 → `aos-business-overview.md`
-- [x] `T-002` AOS 护城河与竞争格局分析 — 完成: 2026-09-28 → `aos-moat-and-competition.md`
-- [x] `T-003` AOS 财务质量与估值分析（近 5-10 年三大表、当前估值 vs 历史区间） — 完成: 2026-09-28 → `aos-financials.md`、`aos-valuation.md`
+- [x] `T-001` AOS 商业模式与业务构成梳理（收入拆分、地域、产品线） — 完成: 2026-09-28 → `AOS/aos-business-overview.md`
+- [x] `T-002` AOS 护城河与竞争格局分析 — 完成: 2026-09-28 → `AOS/aos-moat-and-competition.md`
+- [x] `T-003` AOS 财务质量与估值分析（近 5-10 年三大表、当前估值 vs 历史区间） — 完成: 2026-09-28 → `AOS/aos-financials.md`、`AOS/aos-valuation.md`
 - [ ] `T-004` 复查 AOS 估值：核对当前实时股价，评估 Leonard Valve 杠杆上升对安全边际的影响 — 认领: — — 开: 2026-09-28
