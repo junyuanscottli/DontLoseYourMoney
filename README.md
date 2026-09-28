@@ -12,3 +12,4 @@
 |---|---|---|---|
 | [training](research/training/) | 自我培训对齐：三大表与美股基础、价投真经、以往案例复盘 | active | 2026-09-11 |
 | [paid-user-research](research/paid-user-research/) | 美国付费用户调研：找到如实具备的稀缺画像，以高于机会成本的价格出售时间 | active | 2026-09-16 |
+| [value-investing-philosophy](research/value-investing-philosophy/) | 价值投资哲学研究：财富、内在价值、护城河的方法论 | active | 2026-09-28 |
