@@ -17,3 +17,4 @@
 | [index-vs-concentrated-investing](research/index-vs-concentrated-investing/) | 指数投资 vs 集中投资收益对比：QQQ、TQQQ、标普 500 等 | active | 2026-09-28 |
 | [single-stock-research](research/single-stock-research/) | 个股研究：商业模式、护城河、财务与估值，首个对象 AOS | active | 2026-09-28 |
 | [cloud-and-local-ai](research/cloud-and-local-ai/) | 线上与本地 AI 实践：工具体验、本地部署、数据分析与使用选择 | active | 2026-09-30 |
+| [productivity-progress-and-human-needs](research/productivity-progress-and-human-needs/) | 人类生产力进步与持久需求相关的思考：追踪历史轨迹、驱动力与长期不变的需求 | active | 2026-09-30 |
